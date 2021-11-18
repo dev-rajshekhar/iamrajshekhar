@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Android 
 - 📫 How to reach me: [Twitter : @yrajshekhar231](https://twitter.com/yrajshekhar231)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: lol...
+- ⚡ Fun fact: Gradle is running
 -->
