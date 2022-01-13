@@ -7,10 +7,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [useState: Function can have state?](https://dev.to/iamrajshekhar/usestate-function-can-have-state-3h38)
-- [React-Navigation :  Navigate with Stack](https://dev.to/iamrajshekhar/react-navigation-navigate-with-stack-3k5e)
-- [UseEffect: Is it really Effective?](https://dev.to/iamrajshekhar/useeffect-is-it-really-effective-4e3l)
-- [React-Native/React - VsCode Extensions for effective development](https://dev.to/iamrajshekhar/react-nativereact-vscode-extensions-for-effective-development-26f1)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -19,6 +15,7 @@
 <a href="https://twitter.com/yrajshekhar231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yrajshekhar231" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajshekharyadav142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajshekharyadav142" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7539927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7539927" height="30" width="40" /></a>
+<a href="https://hashnode.com/@rajshekhar1402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rajshekhar1402" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@rajshekhar1402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rajshekhar1402" height="30" width="40" /></a>
 </p>
 
@@ -28,6 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrajshekhar&show_icons=true&locale=en&layout=compact" alt="iamrajshekhar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrajshekhar&show_icons=true&locale=en" alt="iamrajshekhar" /></p>
-
-
-
