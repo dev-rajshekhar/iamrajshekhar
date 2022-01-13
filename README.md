@@ -9,3 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter : @yrajshekhar231](https://twitter.com/yrajshekhar231)
 - 😄 Pronouns: He/Him
 -  Read My Blog : [Dev.to](https://dev.to/iamrajshekhar),  [Hashnode](https://hashnode.com/@rajshekhar1402)
+
+<img src= "https://github-readme-stats.vercel.app/api?username=iamrajshekhar&show_icons=true&theme=light"/>
+
+
