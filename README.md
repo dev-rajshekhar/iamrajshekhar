@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajshekhar Yadav</h1>
 <h3 align="center">Mobile Application Developer</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter**, **Jetpack Compose**
 
 - 💬 Ask me about **Android, React-Native, Flutter**
 
