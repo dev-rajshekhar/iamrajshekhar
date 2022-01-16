@@ -7,10 +7,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [useReducer&lpar;&rpar; Hook:  Let me dispatch it](https://dev.to/iamrajshekhar/usereducer-hook-let-me-dispatch-it-3033)
 - [useState: Function can have state?](https://dev.to/iamrajshekhar/usestate-function-can-have-state-3h38)
 - [React-Navigation :  Navigate with Stack](https://dev.to/iamrajshekhar/react-navigation-navigate-with-stack-3k5e)
 - [UseEffect: Is it really Effective?](https://dev.to/iamrajshekhar/useeffect-is-it-really-effective-4e3l)
-- [React-Native/React - VsCode Extensions for effective development](https://dev.to/iamrajshekhar/react-nativereact-vscode-extensions-for-effective-development-26f1)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
