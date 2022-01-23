@@ -7,10 +7,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [useContext&lpar;&rpar; Hook : Let&#39;s consume  it](https://dev.to/yadav_rajshekhar/usecontext-hook-lets-consume-it-4dkp)
 - [useReducer&lpar;&rpar; Hook:  Let me dispatch it](https://dev.to/yadav_rajshekhar/usereducer-hook-let-me-dispatch-it-3033)
 - [useState: Function can have state?](https://dev.to/yadav_rajshekhar/usestate-function-can-have-state-3h38)
 - [React-Navigation :  Navigate with Stack](https://dev.to/yadav_rajshekhar/react-navigation-navigate-with-stack-3k5e)
-- [UseEffect: Is it really Effective?](https://dev.to/yadav_rajshekhar/useeffect-is-it-really-effective-4e3l)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
